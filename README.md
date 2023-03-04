@@ -12,7 +12,8 @@ implementation that can be used to test things like your client or
 bot framework.
 
 > **Warning**
-> Do not use this for anything but testing.
+> Do not use this for anything but testing, it is missing crucial features
+> such as rate limiting.
 
 ## Configuration
 
