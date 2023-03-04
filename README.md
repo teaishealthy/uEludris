@@ -1,5 +1,5 @@
 # μEludris
-[![ISC License](https://img.shields.io/github/license/teaishealthy/ueludris?color=ff006e&style=flat-square)](https://github.com/teaishealthy/ueludris/blob/master/LICENSE)
+[![ISC License](https://img.shields.io/github/license/teaishealthy/ueludris?style=flat-square&color=ff006e)](https://github.com/teaishealthy/ueludris/blob/master/LICENSE)
 [![Yarn](https://img.shields.io/badge/manager-yarn-%23ff006e?style=flat-square)](https://yarnpkg.com/)
 [![Express](https://img.shields.io/badge/framework-express-%23f00093?style=flat-square)](https://vitejs.dev/)
 [![Typescript](https://img.shields.io/badge/Language-typescript-%23d000b9?style=flat-square)](https://reactjs.org/)
